@@ -12,4 +12,4 @@ Incrível Tarde (5 dia)
 
 Incomparável Noite (6 dia)
 
-Conclusão (7 dia) (algum erro acontece, logo usarei o git.revert)
+
