@@ -8,3 +8,8 @@ def subtracao(a,b):
 #Nova feature, multiplicar, 4 dia
 def multiplicacao(a,b):
     return a*b
+
+#Nova feature, dividir, 5 dia
+def divisao(a,b):
+    return a/b
+
