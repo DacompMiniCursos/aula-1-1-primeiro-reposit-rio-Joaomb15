@@ -13,3 +13,6 @@ def multiplicacao(a,b):
 def divisao(a,b):
     return a/b
 
+#Nova feature, exponencial, 6 dia
+def exponencial(a,b):
+    return a**b
