@@ -4,3 +4,7 @@ def soma(a,b):
 # Nova feature, subtrair, 3 dia
 def subtracao(a,b):
     return a-b
+
+#Nova feature, multiplicar, 4 dia
+def multiplicacao(a,b):
+    return a*b
