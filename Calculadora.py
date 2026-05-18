@@ -1,0 +1,23 @@
+#Adição da soma, 2 dia
+def soma(a,b):
+    return a+b
+# Nova feature, subtrair, 3 dia
+def subtracao(a,b):
+    return a-b
+
+#Nova feature, multiplicar, 4 dia
+def multiplicacao(a,b):
+    return a*b
+
+#Nova feature, dividir, 5 dia
+def divisao(a,b):
+    return a/b
+
+#Nova feature, exponencial, 6 dia
+def exponencial(a,b):
+    return a**b
+
+#Nova feature (implementada de forma certa, adicionar +3, 7 dia)
+def somar3 (a):
+    return a+3
+
