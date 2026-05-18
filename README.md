@@ -17,6 +17,7 @@ Finalização desse trabalho absurdamente dahora
 ### Tentei fazer o Nivél Desafio
 
 ### **Git diff:**
+ ``` 
 
 diff --git a/Calculadora.py b/Calculadora.py
 index c5fe524..7bdd447 100644
@@ -30,6 +31,9 @@ index c5fe524..7bdd447 100644
 
 
 ### Git log:
+ ``` 
+ ``` 
+
 5d659f1 (HEAD -> main, origin/main, origin/HEAD) Revert na feature que foi implementada errada
 6ed3136 7 dia, nova feature, implementação de um erro para revert
 1cf6d31 6 dia, nova feature, exponencial
@@ -39,5 +43,8 @@ d2e0818 5 dia, nova feature, divisão
 8ab4a80 2 dia de commits
 459c34c Criação do projeto/ 1 dia
 c0672d1 add deadline
+ ``` 
+
+
 
 
