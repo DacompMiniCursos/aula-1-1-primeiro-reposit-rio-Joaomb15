@@ -16,3 +16,8 @@ def divisao(a,b):
 #Nova feature, exponencial, 6 dia
 def exponencial(a,b):
     return a**b
+
+#Nova feature (implementada de forma certa, adicionar +3, 7 dia)
+def somar3 (a):
+    return a+3
+
